@@ -1,9 +1,11 @@
-# Quantum Random Generation Challenge
 
-<p align="middle">
-  <img src="https://qiskit-fall-fest-algiers.wtmalgiers.org/_next/static/media/QiskitHero.94cd5459.png" width="375"/>
-  <img src="bleu_back_white_text_zoomed.png" width="300"/>
+<p float="left">
+  <img align="middle" src="https://qiskit-fall-fest-algiers.wtmalgiers.org/_next/static/media/QiskitHero.94cd5459.png" width="175"/>
+  <img align="middle" height="30" hspace="330"/>
+  <img align="middle" src="bleu_back_white_text_zoomed.png" width="125"/>
 </p>
+
+# Quantum Random Generation Challenge
 
 This challenge is proposed by [Constantine Quantum Technologies](https://cqtech.org/) for the [Qiskit Fall Fest 2022 at Algiers](https://qiskit-fall-fest-algiers.wtmalgiers.org/) organized by [Women Techmakers Algiers](https://www.linkedin.com/company/wtm-algiers/) & [GDG Algiers](https://www.gdgalgiers.com/)
 
