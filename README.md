@@ -4,7 +4,7 @@
 <img src="https://qiskit-fall-fest-algiers.wtmalgiers.org/_next/static/media/QiskitHero.94cd5459.png" width="200"/>
 </p>
 
-This challenge was proposed by [Constantine Quantum Technologies](https://cqtech.org/) for the [Qiskit Fall Fest 2022 at Algiers](https://qiskit-fall-fest-algiers.wtmalgiers.org/) organized by [Women Techmakers Algiers](https://www.linkedin.com/company/wtm-algiers/) & [GDG Algiers](https://www.gdgalgiers.com/)
+This challenge is proposed by [Constantine Quantum Technologies](https://cqtech.org/) for the [Qiskit Fall Fest 2022 at Algiers](https://qiskit-fall-fest-algiers.wtmalgiers.org/) organized by [Women Techmakers Algiers](https://www.linkedin.com/company/wtm-algiers/) & [GDG Algiers](https://www.gdgalgiers.com/)
 
 ## Introduction
 
@@ -12,11 +12,11 @@ Random number generation is an essential subroutine for many algorithms and appl
 
 > Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.
 
-The reason for that is that the random numbers generated through arithmetic methods are reproducible and have repeating patterns and this is undesirable for many critical applications like cryptography. Ideally, we would like to build a random number generator that is outputs unbiased bitstrings, unpredictable, and with high rate.
+The reason for that is that the random numbers generated through arithmetic methods are reproducible and have repeating patterns and this is undesirable for many critical applications like cryptography. Ideally, we would like to build a random number generator which outputs unbiased bitstrings, unpredictable, and with high rate.
 
-- **Unbiased**: the probability to have a `0` in the bitstring is equal to the probability to have a `1` and the probability to have any sequence of bits is equal to the probability to have any other sequence of bits that has the same length.
+- **Unbiased**: the probability to have a `0` in the bitstring is equal to the probability to have a `1`, and the probability to have any sequence of bits is equal to the probability to have any other sequence of bits that has the same length.
 
-- **Unpredictable**: if someone knows the algorithm/circuit used to generate the random numbers and also has access to other information like the `seed`. He is unable to generate the same bitstring as you.
+- **Unpredictable**: if someone knows the algorithm/circuit used to generate the random numbers and also has access to other information like the `seed`, he should be unable to generate the same bitstring as you.
 
 - **High rate**: the algorithm/circuit is able to output a large number of random bits.
 
@@ -24,9 +24,9 @@ The reason for that is that the random numbers generated through arithmetic meth
 
 For this challenge, you are asked to:
 
-1. Write a paragraph to explain how you can use quantum to generate a random bitstring.
+1. Write a paragraph to explain how can you use a quantum system/concept to generate a random bitstring.
 
-2. Implement the ideas that you came up with in the above paragraphs by coding a quantum circuit in Qiskit and execute it on a simulator `qasm_simulator`.
+2. Implement the ideas that you came up with in the above paragraph by coding a quantum circuit in Qiskit and execute it on a simulator `qasm_simulator`.
 
 3. Try to execute your circuit on a fake noisy backend. What do you observe? Compare the results you got from the simulator and from the fake noisy backend (you can use a metric called `entropy`). Can you explain the difference?
 
