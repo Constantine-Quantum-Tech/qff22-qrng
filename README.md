@@ -29,9 +29,9 @@ For this challenge, you are asked to:
 
 2. Implement the ideas that you came up with in the above paragraph by coding a quantum circuit in Qiskit and execute it on a simulator `qasm_simulator`.
 
-3. Try to execute your circuit on a fake noisy backend. What do you observe? Compare the results you got from the simulator and from the fake noisy backend (you can use a metric called `entropy`). Can you explain the difference?
+3. Try to execute your circuit on a fake noisy backend. What do you observe? Compare the results you got from the simulator and from the fake noisy backend (you can use a metric called `entropy`). Try to explain the difference?
 
-4. Can you come up with a list of ideas to improve the results that you got in task (3)?
+4. Try to come up with a list of ideas to improve the results that you got in task (3)?
 
 5. Implement one (or more :)) of the ideas that you came up with in task (4) and try to improve the results of task (3).
 
@@ -45,7 +45,7 @@ For this challenge, you are asked to:
 
 - Save the bitstrings generated in tasks (2), (3), (5), and (6) on the hard drive.
 
-- The ideas of task (4) to improve the results can be classical or quantum.
+- The ideas of task (4) can be classical or quantum.
 
 - If you implemented multiple ideas in task (5), try to compare them and see which one works best and try to explain why.
 
