@@ -1,6 +1,6 @@
 # Quantum Random Generation Challenge
 
-<p align="center">
+<p align="left">
 <img src="https://qiskit-fall-fest-algiers.wtmalgiers.org/_next/static/media/QiskitHero.94cd5459.png" width="200"/>
 </p>
 
