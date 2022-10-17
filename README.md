@@ -1,5 +1,5 @@
 
-<p float="left">
+<p float="middle">
   <img align="middle" src="https://qiskit-fall-fest-algiers.wtmalgiers.org/_next/static/media/QiskitHero.94cd5459.png" width="175"/>
   <img align="middle" height="30" hspace="330"/>
   <img align="middle" src="bleu_back_white_text_zoomed.png" width="125"/>
