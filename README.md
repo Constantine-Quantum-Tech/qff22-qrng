@@ -2,8 +2,11 @@
 
 <p float="middle" style="pointer-events:none;">
   <img align="middle" src="https://qiskit-fall-fest-algiers.wtmalgiers.org/_next/static/media/QiskitHero.94cd5459.png" width="26%"/>
+  <picture>
   <img align="middle" width="54%"/>
+  </picture>
   <img align="middle" src="logos/bleu_back_white_text_zoomed.png" width="18%"/>
+  
 </p>
 
 This challenge is proposed by [Constantine Quantum Technologies](https://cqtech.org/) for the [Qiskit Fall Fest 2022 at Algiers](https://qiskit-fall-fest-algiers.wtmalgiers.org/) organized by [Women Techmakers Algiers](https://www.linkedin.com/company/wtm-algiers/) & [GDG Algiers](https://www.gdgalgiers.com/)
