@@ -30,10 +30,18 @@ The reason for that is that the random numbers generated through arithmetic meth
 For this challenge, you are asked to:
 
 1. Write a paragraph to explain how can you use a quantum system/concept to generate a random bitstring.
+To generate a random bitstring 
+1. we'll use a quantum register with 4 quantums (To generate a bitstring of 4 bits)
+and another classical register with 4 bits too 
+2. Using the hadamard gate we'll put the qubits in supperposition state 
+3. weput the after measurment in the classical bits register 
+4. after executing it generates the random bitstring
 
 2. Implement the ideas that you came up with in the above paragraph by coding a quantum circuit in Qiskit and execute it on a simulator `qasm_simulator`.
 
+
 3. Try to execute your circuit on a fake noisy backend. What do you observe? Compare the results you got from the simulator and from the fake noisy backend (you can use a metric called `entropy`). Try to explain the difference?
+
 
 4. Try to come up with a list of ideas to improve the results that you got in task (3)?
 
