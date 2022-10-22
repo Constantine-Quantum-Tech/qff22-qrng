@@ -31,6 +31,7 @@ For this challenge, you are asked to:
 
 1. Write a paragraph to explain how can you use a quantum system/concept to generate a random bitstring.
 To generate a random bitstring 
+
 1. we'll use a quantum register with 4 quantums (To generate a bitstring of 4 bits)
 and another classical register with 4 bits too 
 2. Using the hadamard gate we'll put the qubits in supperposition state 
